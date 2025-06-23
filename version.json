@@ -1,6 +1,5 @@
 {
-    "ihud_logger": 1.0,
-    "ihud_scoreboard": 1.0,
-    "ihud_scoreboard": 1.0,
+    "ihub_logger": 1.0,
+    "ihub_scoreboard": 1.0,
     "ihub_safezones": 1.0,
 }
