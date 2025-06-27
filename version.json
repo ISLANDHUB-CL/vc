@@ -3,4 +3,6 @@
     "ihub_scoreboard": 1.0,
     "ihub_safezones": 1.0,
     "ihub_farm": 1.1,
+    "ihub_chat": 1.1,
+    "ihub_hud": 1.1,
 }
